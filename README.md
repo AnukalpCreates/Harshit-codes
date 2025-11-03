@@ -1,4 +1,2 @@
 # Harshit-codes
-THis is my first Git Repository.
-<br>
-Author - Anukalp
+Hi, Here I have uploaded mine Amazon Website Clone.
